@@ -1,4 +1,4 @@
-### Hello there visitor 👋. I'm currently open to job positions 💻. Feel free to check my [personal website](https://damian-m-g.github.io/), or to take a look at my [online résumé (CV)](https://www.linkedin.com/in/damianmg/). You can find my [contact e-mail](mailto:gonzalezdamianm@gmail.com) at my Bio. 🌌
+### Hello there visitor 👋. Feel free to check my [personal website](https://damian-m-g.github.io/), or to take a look at my [online résumé (CV)](https://www.linkedin.com/in/damianmg/). You can find my [contact e-mail](mailto:gonzalezdamianm@gmail.com) at my Bio. 🌌
 
 <!--
 **damian-m-g/damian-m-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
